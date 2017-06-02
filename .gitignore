@@ -10,5 +10,3 @@ MANIFEST.MF
 .idea/*
 deploy/
 log/
-crisis-rpc-demo/.idea/*
-crisis-rpc-demo/classes/*
