@@ -24,6 +24,6 @@ public class HelloWorldController {
     public String test() {
         Assert.assertNotNull(userSerivce);
         Assert.assertNotNull(blogService);
-        return "hello world!";
+        return "hello world! 搞事情";
     }
 }
